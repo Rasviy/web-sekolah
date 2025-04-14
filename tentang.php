@@ -46,11 +46,11 @@
 <section class="py-5 text-center text-white" style="background-color: #0c1233;">
   <div class="container">
     <h1 class="display-5 fw-bold">Tentang Kami</h1>
-    <p class="lead">Rumah / Tentang Kami</p>
+    <p class="text-white">Rumah / Tentang Kami</p>
   </div>
 </section>
 
-//TENTANG
+<!-- //TENTANG -->
 <section class="container py-5">
   <div class="text-center">
     <h5 class="fw-bold">
@@ -65,7 +65,7 @@
   </div>
 </section>
 
-//KONTAK
+<!-- //KONTAK -->
 <section class="py-5">
   <div class="container text-center">
     <h6 class="text-primary fw-bold mb-2">— Hubungi Kami —</h6>
@@ -98,7 +98,7 @@
   </div>
 </section>
 
-//LOKASI
+<!-- //LOKASI -->
 <section class="py-5 bg-light">
   <div class="container">
     <h2 class="text-center mb-4 fw-bold">Lokasi Sekolah</h2>
@@ -112,7 +112,7 @@
   </div>
 </section>
 
-//FOOTER
+<!-- //FOOTER -->
 <footer>
   <div class="container">
     <div class="row">
@@ -140,6 +140,7 @@
     </div>
     <hr style="border-color: rgba(255,255,255,0.1);">
     <div class="text-center mt-3">
+    <p class="text-white">Muhammad Justin Rasvyy</p>
       &copy; 2022 . Semua Hak Dilindungi Undang-Undang
     </div>
   </div>

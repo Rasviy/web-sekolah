@@ -18,7 +18,8 @@
         </div>
       </div>
 
-//KONSULTAN
+<!-- //KONSULTAN -->
+
       <div class="col-md-6 text-md-end mt-4 mt-md-0">
         <h5 class="fw-bold">Konsultan</h5><br>
         <img src="img/logo-ids-rumah-pendidikan-indonesia-1@2x.8d71af15.png" alt="IDS Logo" style="max-width: 300px;">
@@ -27,6 +28,7 @@
 
     <hr class="mt-4" style="border-color: rgba(255,255,255,0.1);">
     <div class="text-center mt-3">
+    <p>Muhammad Justin Rasvyy</p>
       &copy; 2022 . Semua Hak Dilindungi Undang-Undang
     </div>
   </div>
