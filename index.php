@@ -89,8 +89,8 @@
       mengutamakan pendidikan akhlak mulia untuk melahirkan pemimpin <br>
       "berhati Mekah berotak Jerman" melek teknologi di era 4.0.
     </p>
-    <a href="#" class="btn btn-daftar btn-custom">Daftar sekarang</a>
-    <a href="#" class="btn btn-konsultasi btn-custom">Konsultasi</a>
+    <a href="index.php" class="btn btn-daftar btn-custom">Daftar sekarang</a>
+    <a href="https://api.whatsapp.com/send/?phone=628112232880&text&type=phone_number&app_absent=0" class="btn btn-konsultasi btn-custom">Konsultasi</a>
     
 
   </div>
@@ -134,7 +134,7 @@
     <div class="row align-items-center">
       <div class="col-md-6 mb-4 mb-md-0">
         <div class="ratio ratio-16x9">
-          <iframe src="https://www.youtube.com/watch?v=7y4h6WYURUY" title="Video Profil SMK Wikrama" allowfullscreen></iframe>
+          <iframe src="https://www.youtube.com/watch?v=XVoDV4ry3HA&t=9s" title="Video Profil SMK Wikrama" allowfullscreen></iframe>
         </div>
       </div>
       <div class="col-md-6">
@@ -195,7 +195,7 @@
         <ul>
           <li>Mudah dijangkau, pinggir jalan nasional</li>
           <li>Dilalui angkot dan bus antar kota antar provinsi</li>
-          <li>Lokasi kami di Google Maps: <a href="#" class="text-primary">klik di sini</a></li>
+          <li>Lokasi kami di Google Maps: <a href="tentang.php" class="text-primary">klik di sini</a></li>
         </ul>
         <a href="#" class="btn btn-primary mb-3">Unduh Brosur</a>
 
