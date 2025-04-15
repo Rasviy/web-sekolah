@@ -89,7 +89,7 @@
       mengutamakan pendidikan akhlak mulia untuk melahirkan pemimpin <br>
       "berhati Mekah berotak Jerman" melek teknologi di era 4.0.
     </p>
-    <a href="index.php" class="btn btn-daftar btn-custom">Daftar sekarang</a>
+    <a href="index1.php" class="btn btn-daftar btn-custom">Daftar sekarang</a>
     <a href="https://api.whatsapp.com/send/?phone=628112232880&text&type=phone_number&app_absent=0" class="btn btn-konsultasi btn-custom">Konsultasi</a>
     
 
@@ -172,7 +172,7 @@
         <p>Gelombang 1 sudah berakhir</p>
         <p>Hubungi admin untuk mendapat diskon lainnya</p>
         </strong>
-        <a href="#" class="btn btn-primary mt-2 px-4 py-2 fw-bold">Daftar Sekarang</a>
+        <a href="index1.php" class="btn btn-primary mt-2 px-4 py-2 fw-bold">Daftar Sekarang</a>
 
         <hr class="my-4">
 

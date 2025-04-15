@@ -31,7 +31,7 @@
     footer {
       background-color: #0c1233;
       color: white;
-      padding: 40px 0;
+      padding: 4u80px 0;
     }
 
     footer a {

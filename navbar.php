@@ -61,7 +61,7 @@
     </div>
     </strong>
     <div class="d-none d-lg-block">
-      <a class="btn btn-primary" href="ppdb.php">Daftar</a>
+      <a class="btn btn-primary" href="index1.php">Daftar</a>
     </div>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
