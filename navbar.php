@@ -13,7 +13,7 @@
   </div>
 </div>
 
-//NAV BAR
+<!-- //NAV BAR -->
 <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top custom-navbar">
   <div class="container d-flex justify-content-between align-items-center">
   <style>
@@ -34,7 +34,7 @@
       <img src="img/images.jpeg" alt="Logo" width="40" class="me-2">
     </a>
 
-
+<strong>
     <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
       <ul class="navbar-nav text-center">
         <li class="nav-item"><a class="nav-link" href="index.php">Beranda</a></li>
@@ -54,14 +54,14 @@
           </ul>
         </li>
         <li class="nav-item"><a class="nav-link" href="program.php">Program</a></li>
-        <li class="nav-item"><a class="nav-link" href="#">Sumber Daya</a></li>
+        <li class="nav-item"><a class="nav-link" href="sumber.php">Sumber Daya</a></li>
         <li class="nav-item"><a class="nav-link" href="berita.php">Berita</a></li>
         <li class="nav-item"><a class="nav-link" href="tentang.php">Tentang Kami</a></li>
       </ul>
     </div>
-
+    </strong>
     <div class="d-none d-lg-block">
-      <a class="btn btn-primary" href="#">Daftar</a>
+      <a class="btn btn-primary" href="index1.php">Daftar</a>
     </div>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
