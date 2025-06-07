@@ -50,13 +50,22 @@
 
   <?php include 'navbar.php'; ?>
 
-//SEJARAH
-  <div class="container py-5 section-content">
-    <h2 class="text-center mb-4 section-title">SEJARAH SEKOLAH</h2>
-    <p>
-      SMK Wikrama 1 Garut didirikan pada tahun 2010 sebagai upaya untuk menyediakan pendidikan kejuruan yang berkualitas
-      di Kabupaten Garut. Berawal dari hanya dua jurusan, sekolah ini terus berkembang hingga kini memiliki berbagai program unggulan,
-      baik reguler maupun asrama.
+
+  <section class="py-5 text-center text-white" style="background-color: #0c1233;">
+  <div class="container">
+    <h1 class="display-5 fw-bold">SEJARAH</h1>
+  </div>
+</section>
+
+    <h1>Sejarah SMK Wikrama Indonesia</h1>
+    <h2>Awal berdiri</h2>
+    <p>SMK Wikrama 1 Garut pertama kali didirikan di Kabupaten Garut berkat inisiatif Ir. Itasia Dina Sulvianti dan Dr.H.RP Agus Lelana yang memiliki tujuan untuk membangun sekolah berkualitas di seluruh Indonesia, dengan berbekal keberhasilan di SMK WIkrama Bogor. 
+
+    Pendirian SMK Wikrama 1 Garut dapat terwujud berkat kerjasama antara Yayasan Prawitama yang menaungi SMK WIkrama Bogor bersama Yayasan Baitul Hikmah Al Ma’muni di Garut yang memiliki visi yang sama yaitu membuat sebuah sekolah yang berkualitas di Kabupaten Garut. Berdiri tanggal  tahun 2011 pada awalnya hanya memiliki 34 siswa dengan kompetensi keahlian Teknik Komputer dan Jaringan (TKJ), sampai tahun 2014 SMK Wikrama 1 Garut berpindah lokasi dan secara bertahap mentampati gedung yang lebih luas diatas tanah ± 1 hektar, berlokasi di Jalan Otto Iskandardinata Kp Tanjung Ds Jati Kecamatan Tarogong Kaler Kabupaten Garut. 
+
+    Kompetensi keahlian di SMK Wikrama 1 Garut pun terus berkembang. SMK Wikrama 1 Garut membuka 4 kompetensi keahlian, diantaranya (1) Teknik Jaringan Komputer dan Telekomunikasi; (2) Pengembangan Perangkat Lunak dan Gim; (3) Pemasaran; (4) Perhotelan.
+
+    Kesuksesan SMK Wikrama 1 Garut saat ini tentunya tidak lepas dari sejarah SMK Wikrama 1 Garut mulai dari membentuk visi dan misi, kerja keras hingga diakui dunia internasional hingga prestasi dan pengharagaan yang didapatkan SMK Wikrama Bogor sejak awal didirikan. Berikut sejarah yang dilalui SMK Wikrama 1 Garut berdasarkan urutan tahun.
     </p>
     <p>
       Dengan semangat <strong>"Ilmu yang Amaliah, Amal yang Ilmiah, Akhlakul Karimah"</strong>, SMK Wikrama 1 Garut terus berkomitmen untuk mencetak generasi yang siap bersaing
@@ -64,7 +73,7 @@
     </p>
   </div>
 
- //VISI MISI
+ 
   <div class="container py-5 section-content">
     <h2 class="text-center mb-4 section-title">VISI & MISI</h2>
     <div class="row">

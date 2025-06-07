@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<!-- //NAV BAR -->
+
 <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top custom-navbar">
   <div class="container d-flex justify-content-between align-items-center">
   <style>
@@ -41,27 +41,19 @@
         <li class="nav-item"><a class="nav-link" href="ppdb.php">PPDB</a></li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="profil.php" data-bs-toggle="dropdown">Profil</a>
-          <ul class="dropdown-menu">
-            <!-- <li><a class="dropdown-item" href="profil/sejarah.php">Visi & Misi</a></li> -->
-            <!-- <li><a class="dropdown-item" href="">Sejarah</a></li> -->
-          </ul>
         </li>
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="jurusan.php" data-bs-toggle="dropdown">Jurusan</a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">RPL</a></li>
-            <li><a class="dropdown-item" href="#">TKJ</a></li>
-          </ul>
         </li>
         <li class="nav-item"><a class="nav-link" href="program.php">Program</a></li>
-        <li class="nav-item"><a class="nav-link" href="sumber.php">Sumber Daya</a></li>
-        <li class="nav-item"><a class="nav-link" href="berita.php">Berita</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Sumber Daya</a></li>
+        <li class="nav-item"><a class="nav-link" href="#">Berita</a></li>
         <li class="nav-item"><a class="nav-link" href="tentang.php">Tentang Kami</a></li>
       </ul>
     </div>
     </strong>
     <div class="d-none d-lg-block">
-      <a class="btn btn-primary" href="index1.php">Daftar</a>
+      <a class="btn btn-primary" href="#">Daftar</a>
     </div>
 
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
